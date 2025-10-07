@@ -11,7 +11,7 @@ L4D2 Launcher Unlock & Autocomplete
 
 安装
 -
-1. 将 `.smx` 放入服务器 `left4dead2/addons/sourcemod/plugins/`
+1. 将 `.smx` 放入游戏目录 `left4dead2/addons/sourcemod/plugins/`
 2. 重启服务器或更换地图以加载插件
 
 参考
